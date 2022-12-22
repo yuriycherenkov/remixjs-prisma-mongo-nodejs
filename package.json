@@ -1,4 +1,5 @@
 {
+  "name": "remixjs-expenses",
   "private": true,
   "sideEffects": false,
   "scripts": {
